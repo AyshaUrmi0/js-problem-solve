@@ -3,7 +3,7 @@ Task-1:
 Write a function to convert temperature from Celsius to Fahrenheit.
 
 Task-2:
-You are given an array of numbers. Count how many times the a number is repeated in the array.
+You are given an array of numbers. Count how many times the number is repeated in the array.
 
 sample-input: numbers = [5,6,11,12,98, 5]
 
